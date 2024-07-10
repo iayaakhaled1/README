@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am a Senior Data Analytics Engineer with 4 years of experience specializing in designing, developing, and maintaining robust data engineering pipelines. My expertise spans across a variety of tools and technologies, enabling me to deliver efficient data analytics and engineering solutions that drive business insights and decision-making.
+I am a Senior Data Analytics Engineer with 5 years of experience specializing in designing, developing, and maintaining robust data engineering pipelines. 
+My expertise spans across a variety of tools and technologies, enabling me to deliver efficient data analytics and engineering solutions that drive business insights and decision-making.
 
 ## Key Responsibilities
 
@@ -58,3 +59,14 @@ I am a Senior Data Analytics Engineer with 4 years of experience specializing in
 - Tableau
 - Power BI
 - Looker (Google Data Studio)
+
+Markdown
+## Courses and Certifications
+
+The following table lists courses and certifications I've completed:
+
+| Topic | Course Name | Platform |
+|---|---|---|
+| Airflow | Astronomer Certification for Apache Airflow Fundamentals | Astronomer |
+| Data Architecture | Understanding Modern Data Architecture | DataCamp |
+| Agile | Agile Software Development: Scrum for Developers | LinkedIn |
