@@ -70,3 +70,9 @@ The following table lists courses and certifications I've completed:
 | Airflow | Astronomer Certification for Apache Airflow Fundamentals | Astronomer |
 | Data Architecture | Understanding Modern Data Architecture | DataCamp |
 | Agile | Agile Software Development: Scrum for Developers | LinkedIn |
+
+## Technical writing
+**Understanding Airflow Task Dependencies: Linear Chains & Fan-In/Fan-Out (doc)** 
+[Understanding Airflow Task Dependencies](https://github.com/iayaakhaled1/README/blob/main/Understanding%20Airflow%20Task%20Dependencies_%20Linear%20Chains%20and%20Fan-In_Fan-Out.pdf)
+- This document explores the concept of task dependencies in Airflow, focusing on Linear Chains and Fan-In/Fan-Out patterns.
+- It delves into how to leverage these techniques to design efficient and well-structured Directed Acyclic Graphs (DAGs) for your data pipelines.
